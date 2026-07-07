@@ -45,7 +45,7 @@ window.CONTENT = {
        or "neutral" (early/exploratory).
      ------------------------------------------------------------------ */
   now: {
-    intro: "A running log of what I'm currently prototyping at Lindner Group as an AI Engineer and AI Strategist: technical enablement, applied GenAI, and turning research into working systems.",
+    intro: "A running log of what I'm currently upto at Lindner Group: technical enablement, applied GenAI, and turning research into production-ready working systems.",
     outro: "I like starting from a rough prototype and being the person who pushes it toward production, figuring out what breaks at scale and fixing it.",
     cards: [
       {
@@ -71,7 +71,7 @@ window.CONTENT = {
         built: "I research and evaluate the latest AI technologies, then test how they could be incorporated into day-to-day work across the company, from tool use patterns to retrieval approaches.",
         tags: ["internal LLM", "tool use", "retrieval"],
         status: "Research / evaluation",
-        statusTone: "neutral"
+        statusTone: "teal"
       },
       {
         title: "LLM video summarizer with speaker diarization",
@@ -147,7 +147,7 @@ window.CONTENT = {
   skills: [
     {
       group: "Languages",
-      items: ["Python", "R", "C", "C++", "Java", "SQL", "HTML", "CSS", "Node.js", "React"]
+      items: ["Python", "R", "C", "C++", "Java", "Javascript", "SQL", "HTML", "CSS", "Node.js", "React"]
     },
     {
       group: "AI/ML & data",
@@ -174,14 +174,14 @@ window.CONTENT = {
     {
       degree: "M.Sc. Artificial Intelligence and Data Science · joint degree",
       school: "Technische Hochschule Deggendorf & University of South Bohemia",
-      period: "Mar 2023 – Present",
+      period: "Mar 2023 – Mar 2026",
       note: "Thesis at Volkswagen AG on hybrid retrieval-augmented generation over enterprise data."
     },
     {
       degree: "B.Tech Computer Science and Engineering",
       school: "Jawaharlal Nehru Technological University Hyderabad",
       period: "Jul 2018 – Jul 2022",
-      note: "Co-authored a machine learning research paper on medical prediction systems."
+      note: "Iris-based biometric recognition & authentication."
     }
   ],
 
