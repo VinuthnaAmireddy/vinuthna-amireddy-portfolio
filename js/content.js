@@ -30,7 +30,7 @@ window.CONTENT = {
   quickFacts: [
     { label: "Based in", value: "Munich, Germany" },
     { label: "Languages", value: "English (professional) · German (B2) · Telugu (native) · Hindi (fluent)" },
-    { label: "Current focus", value: "GenAI · RAG · voice agents · LLM evaluation" }
+    { label: "Current focus", value: "GenAI · MCP · RAG · voice agents · LLM evaluation" }
   ],
 
   /* ------------------------------------------------------------------
