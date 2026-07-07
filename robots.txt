@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vinuthnaamireddy.github.io/vinuthna-amireddy-portfolio/sitemap.xml
